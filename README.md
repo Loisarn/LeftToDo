@@ -6,7 +6,7 @@ Objectoriented C# - Console Application
 
 ## Kravlista
 
-[] 2p 	Lösningen ska bestå av en konsolapplikation skriven i C# som är körbar med .NET Core 
+[✔️] 2p 	Lösningen ska bestå av en konsolapplikation skriven i C# som är körbar med .NET Core 
 
 [] 2p 	När man startar programmet ska man mötas av en startmeny som förklarar hur programmet används och låter användaren genomföra resterande krav.
 

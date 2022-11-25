@@ -1,0 +1,15 @@
+/Users/louiceborg/Documents/GitHub/LeftToDo/bin/Debug/net6.0/LeftToDo
+/Users/louiceborg/Documents/GitHub/LeftToDo/bin/Debug/net6.0/LeftToDo.deps.json
+/Users/louiceborg/Documents/GitHub/LeftToDo/bin/Debug/net6.0/LeftToDo.runtimeconfig.json
+/Users/louiceborg/Documents/GitHub/LeftToDo/bin/Debug/net6.0/LeftToDo.dll
+/Users/louiceborg/Documents/GitHub/LeftToDo/bin/Debug/net6.0/ref/LeftToDo.dll
+/Users/louiceborg/Documents/GitHub/LeftToDo/bin/Debug/net6.0/LeftToDo.pdb
+/Users/louiceborg/Documents/GitHub/LeftToDo/obj/Debug/net6.0/LeftToDo.csproj.AssemblyReference.cache
+/Users/louiceborg/Documents/GitHub/LeftToDo/obj/Debug/net6.0/LeftToDo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/louiceborg/Documents/GitHub/LeftToDo/obj/Debug/net6.0/LeftToDo.AssemblyInfoInputs.cache
+/Users/louiceborg/Documents/GitHub/LeftToDo/obj/Debug/net6.0/LeftToDo.AssemblyInfo.cs
+/Users/louiceborg/Documents/GitHub/LeftToDo/obj/Debug/net6.0/LeftToDo.csproj.CoreCompileInputs.cache
+/Users/louiceborg/Documents/GitHub/LeftToDo/obj/Debug/net6.0/LeftToDo.dll
+/Users/louiceborg/Documents/GitHub/LeftToDo/obj/Debug/net6.0/ref/LeftToDo.dll
+/Users/louiceborg/Documents/GitHub/LeftToDo/obj/Debug/net6.0/LeftToDo.pdb
+/Users/louiceborg/Documents/GitHub/LeftToDo/obj/Debug/net6.0/LeftToDo.genruntimeconfig.cache
