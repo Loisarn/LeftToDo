@@ -6,10 +6,11 @@ namespace LeftToDo
     {
         private static void Main(string[] args)
         {
+            Console.WriteLine("Welcome. In this application you'll be able to add to dos.");
 
-            Menu1 Menu1 = new Menu1();
-            Menu1.FirstMenu();
-            
+            Menu Menu = new Menu();
+            Menu.FirstMenu();
+
         }
     }
 }

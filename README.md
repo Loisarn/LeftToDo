@@ -8,13 +8,13 @@ Objectoriented C# - Console Application
 
 [✔️] 2p 	Lösningen ska bestå av en konsolapplikation skriven i C# som är körbar med .NET Core 
 
-[] 2p 	När man startar programmet ska man mötas av en startmeny som förklarar hur programmet används och låter användaren genomföra resterande krav.
+[✔️] 2p 	När man startar programmet ska man mötas av en startmeny som förklarar hur programmet används och låter användaren genomföra resterande krav.
 
 [] 8p 	Man ska som användare kunna lista alla dagens uppgifter, alla uppgifter ska då listas om dom inte är "arkiverade".
 
 [] 8p 	När dagens uppgifter är listade ska de kunna markeras som utförda, eller som kvar att göra beroende på sin nuvarande status. Detta kan förslagsvis köra med en symbol som X eller en emoji som ✔️ eller ✅ 
 
-[] 8p Från programmets menyer ska man även kunna lägga till en ny uppgift.
+[✔️] 8p Från programmets menyer ska man även kunna lägga till en ny uppgift.
 
 [] 8p Från programmets menyer ska man även kunna arkivera alla uppgifter som för närvarande är utförda.
 

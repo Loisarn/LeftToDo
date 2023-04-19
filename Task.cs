@@ -1,20 +1,14 @@
+using System.Collections.Generic;
+
 namespace LeftToDo
 {
     public class Task
     {
+        public string? Name { get; set; }
 
-        public string? newTask { get; set; }
-        public List<Task> tasks = new List<Task>();
-        public void Tasks()
+        public Task(string name)
         {
-
-            Console.Clear();
-            Console.WriteLine("Add task");
-            newTask = Console.ReadLine();
-            Task task = new Task();
-            tasks.Add(task);
-
-            return;
+            Name = name;
         }
     }
 }
