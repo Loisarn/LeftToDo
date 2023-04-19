@@ -1,17 +1,20 @@
-public class Task
+namespace LeftToDo
 {
-
-    public string? newTask { get; set; }
-    public List<Task> tasks = new List<Task>();
-    public void Tasks()
+    public class Task
     {
 
-        Console.Clear();
-        Console.WriteLine("Add task");
-        newTask = Console.ReadLine();
-        Task task = new Task();
-        tasks.Add(task);
+        public string? newTask { get; set; }
+        public List<Task> tasks = new List<Task>();
+        public void Tasks()
+        {
 
-        return;
+            Console.Clear();
+            Console.WriteLine("Add task");
+            newTask = Console.ReadLine();
+            Task task = new Task();
+            tasks.Add(task);
+
+            return;
+        }
     }
 }

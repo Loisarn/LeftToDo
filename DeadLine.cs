@@ -1,6 +1,9 @@
 using System;
 
-public class DeadLine 
+namespace LeftToDo
 {
-       public DateTime Time { get; set; }
+    public class DeadLine
+    {
+        public DateTime Time { get; set; }
+    }
 }
